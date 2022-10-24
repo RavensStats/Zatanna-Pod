@@ -1,1 +1,9 @@
-<meta http-equiv="Refresh" content="0; src/app.html" />
+<html>
+  <head>      
+
+    <meta http-equiv="refresh" content="0;URL='src/app.html'" />    
+  </head>    
+  <body> 
+    
+  </body>  
+</html>
