@@ -15,8 +15,8 @@ export const getLeagueData = async (queryLeagueID = leagueID) => {
 		throw new Error(data);
 	}
 
-     const res = await fetch(`https://api.sleeper.app/v1/league/829902949487607808`, {compress: true}).catch((err) => { console.error(err); });
-	const data = await res.json().catch((err) => { console.error(err); });
+     res = await fetch(`https://api.sleeper.app/v1/league/829902949487607808`, {compress: true}).catch((err) => { console.error(err); });
+	data = await res.json().catch((err) => { console.error(err); });
 	
 	if (res.ok) {
 		leagueData.update(ld => {ld[queryLeagueID] = data; return ld});
