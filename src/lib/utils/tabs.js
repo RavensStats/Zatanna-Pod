@@ -69,6 +69,11 @@ export const tabs = [
             {
                 icon: 'sports_football',
                 label: 'Poison Ivy Pod',
+                dest: `https://poison-ivy--pod.vercel.app/`,
+            },
+                        {
+                icon: 'sports_football',
+                label: 'Bane Pod',
                 dest: `https://bane-pod.vercel.app/`,
             },
             {
