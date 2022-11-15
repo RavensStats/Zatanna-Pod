@@ -68,83 +68,72 @@ export const tabs = [
             },
             {
                 icon: 'sports_football',
+                label: 'Poison Ivy Pod',
+                dest: `https://bane-pod.vercel.app/`,
+            },
+            {
+                icon: 'sports_football',
+                label: 'Lex Luthor Pod',
+                dest: `https://lex-luthor-pod.vercel.app/`,
+            },
+            {
+                icon: 'sports_football',
+                label: 'The Joker Pod',
+                dest: `https://the-joker-pod.vercel.app/`,
+            },
+            {
+                icon: 'sports_football',
+                label: 'Batman Pod',
+                dest: `https://batman-pod.vercel.app/`,
+            },            {
+                icon: 'sports_football',
+                label: 'Zatanna Pod',
+                dest: `https://Zatanna-pod.vercel.app/`,
+            },            {
+                icon: 'sports_football',
+                label: 'Green Lantern Pod',
+                dest: `https://green-lantern-pod.vercel.app/`,
+            },            {
+                icon: 'sports_football',
+                label: 'Green Arrow Pod',
+                dest: `https://green-arrow-pod.vercel.app/`,
+            },            {
+                icon: 'sports_football',
+                label: 'Doctor Strange Pod',
+                dest: `https://doctor-strange-pod.vercel.app/`,
+            },            {
+                icon: 'sports_football',
                 label: 'Rocket Raccoon Pod',
-                dest: `https://league-page-ravensstats.vercel.app/`,
-            },
-            {
+                dest: `https://rocket-raccoon-pod.vercel.app/`,
+            },            {
                 icon: 'sports_football',
-                label: 'Go to Sleeper',
-                dest: `https://sleeper.app/leagues/${leagueID}`,
-            },
-            {
+                label: 'Captain America Pod',
+                dest: `https://captain-america-pod.vercel.app/`,
+            },            {
                 icon: 'sports_football',
-                label: 'Go to Sleeper',
-                dest: `https://sleeper.app/leagues/${leagueID}`,
-            },
-            {
+                label: 'Iron Man Pod',
+                dest: `https://iron-man-pod.vercel.app/`,
+            },            {
                 icon: 'sports_football',
-                label: 'Go to Sleeper',
-                dest: `https://sleeper.app/leagues/${leagueID}`,
-            },
-            {
+                label: 'The Joker Pod',
+                dest: `https://the-joker-pod.vercel.app/`,
+            },            {
                 icon: 'sports_football',
-                label: 'Go to Sleeper',
-                dest: `https://sleeper.app/leagues/${leagueID}`,
-            },
-            {
+                label: 'Thanos Pod',
+                dest: `https://thanos-pod.vercel.app/`,
+            },            {
                 icon: 'sports_football',
-                label: 'Go to Sleeper',
-                dest: `https://sleeper.app/leagues/${leagueID}`,
-            },
-            {
+                label: 'Magneto Pod',
+                dest: `https://magneto-pod.vercel.app/`,
+            },            {
                 icon: 'sports_football',
-                label: 'Go to Sleeper',
-                dest: `https://sleeper.app/leagues/${leagueID}`,
+                label: 'Loki Pod',
+                dest: `https://loki-pod.vercel.app/`,
             },
-            {
+                        {
                 icon: 'sports_football',
-                label: 'Go to Sleeper',
-                dest: `https://sleeper.app/leagues/${leagueID}`,
-            },
-            {
-                icon: 'sports_football',
-                label: 'Go to Sleeper',
-                dest: `https://sleeper.app/leagues/${leagueID}`,
-            },
-            {
-                icon: 'sports_football',
-                label: 'Go to Sleeper',
-                dest: `https://sleeper.app/leagues/${leagueID}`,
-            },
-            {
-                icon: 'sports_football',
-                label: 'Go to Sleeper',
-                dest: `https://sleeper.app/leagues/${leagueID}`,
-            },
-            {
-                icon: 'sports_football',
-                label: 'Go to Sleeper',
-                dest: `https://sleeper.app/leagues/${leagueID}`,
-            },
-            {
-                icon: 'sports_football',
-                label: 'Go to Sleeper',
-                dest: `https://sleeper.app/leagues/${leagueID}`,
-            },
-            {
-                icon: 'sports_football',
-                label: 'Go to Sleeper',
-                dest: `https://sleeper.app/leagues/${leagueID}`,
-            },
-            {
-                icon: 'sports_football',
-                label: 'Go to Sleeper',
-                dest: `https://sleeper.app/leagues/${leagueID}`,
-            },
-            {
-                icon: 'sports_football',
-                label: 'Go to Sleeper',
-                dest: `https://sleeper.app/leagues/${leagueID}`,
+                label: 'Dark Phoenix Pod',
+                dest: `https://dark-phoenix-pod.vercel.app/`,
             },
         ]
     },
