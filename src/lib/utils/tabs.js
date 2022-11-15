@@ -66,6 +66,86 @@ export const tabs = [
                 label: 'Go to Sleeper',
                 dest: `https://sleeper.app/leagues/${leagueID}`,
             },
+            {
+                icon: 'sports_football',
+                label: 'Rocket Raccoon Pod',
+                dest: `https://league-page-ravensstats.vercel.app/`,
+            },
+            {
+                icon: 'sports_football',
+                label: 'Go to Sleeper',
+                dest: `https://sleeper.app/leagues/${leagueID}`,
+            },
+            {
+                icon: 'sports_football',
+                label: 'Go to Sleeper',
+                dest: `https://sleeper.app/leagues/${leagueID}`,
+            },
+            {
+                icon: 'sports_football',
+                label: 'Go to Sleeper',
+                dest: `https://sleeper.app/leagues/${leagueID}`,
+            },
+            {
+                icon: 'sports_football',
+                label: 'Go to Sleeper',
+                dest: `https://sleeper.app/leagues/${leagueID}`,
+            },
+            {
+                icon: 'sports_football',
+                label: 'Go to Sleeper',
+                dest: `https://sleeper.app/leagues/${leagueID}`,
+            },
+            {
+                icon: 'sports_football',
+                label: 'Go to Sleeper',
+                dest: `https://sleeper.app/leagues/${leagueID}`,
+            },
+            {
+                icon: 'sports_football',
+                label: 'Go to Sleeper',
+                dest: `https://sleeper.app/leagues/${leagueID}`,
+            },
+            {
+                icon: 'sports_football',
+                label: 'Go to Sleeper',
+                dest: `https://sleeper.app/leagues/${leagueID}`,
+            },
+            {
+                icon: 'sports_football',
+                label: 'Go to Sleeper',
+                dest: `https://sleeper.app/leagues/${leagueID}`,
+            },
+            {
+                icon: 'sports_football',
+                label: 'Go to Sleeper',
+                dest: `https://sleeper.app/leagues/${leagueID}`,
+            },
+            {
+                icon: 'sports_football',
+                label: 'Go to Sleeper',
+                dest: `https://sleeper.app/leagues/${leagueID}`,
+            },
+            {
+                icon: 'sports_football',
+                label: 'Go to Sleeper',
+                dest: `https://sleeper.app/leagues/${leagueID}`,
+            },
+            {
+                icon: 'sports_football',
+                label: 'Go to Sleeper',
+                dest: `https://sleeper.app/leagues/${leagueID}`,
+            },
+            {
+                icon: 'sports_football',
+                label: 'Go to Sleeper',
+                dest: `https://sleeper.app/leagues/${leagueID}`,
+            },
+            {
+                icon: 'sports_football',
+                label: 'Go to Sleeper',
+                dest: `https://sleeper.app/leagues/${leagueID}`,
+            },
         ]
     },
     {
